@@ -1,4 +1,7 @@
 import math
+
+#twin prime : http://mathworld.wolfram.com/TwinPrimes.html
+#fast prime number : https://www.rookieslab.com/posts/fastest-way-to-check-if-a-number-is-prime-or-not
 def isPrime(n):
     """check if is prime number"""
     # Corner cases
